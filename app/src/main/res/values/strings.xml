@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfosysTest</string>
+    <string name="msg_no_data">Thanks for visit, data will be available soon..</string>
+    <string name="msg_no_internet">Please, Check your internet connection..</string>
+</resources>
